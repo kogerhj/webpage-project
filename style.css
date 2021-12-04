@@ -64,15 +64,15 @@ ul {
 }
 
 .image-placeholder {
-    text-align: center;
     background-color: #5b6475;
     width: 400px;
     height: 150px;
     margin: auto;
 }
 
-.subtext {
-}
+/* .subtext {
+    padding: 0px;
+} */
 
 .header-2 {
     margin-bottom: auto;
@@ -86,4 +86,8 @@ ul {
     width: 100px;
     height: 30px;
     margin-bottom: auto;
+}
+
+.placeholder-text {
+    text-align: center;
 }
