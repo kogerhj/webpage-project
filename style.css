@@ -26,3 +26,14 @@ ul {
     list-style: none;
     gap: 10px;
 }
+
+.container-1 {
+    display: flex;
+    flex-direction: column;
+    color: #F9FAF8;
+    background-color: #1F2937;
+}
+
+.main-text {
+    font-size: 48px;
+}
