@@ -34,6 +34,7 @@ ul {
     flex-direction: row;
     color: #F9FAF8;
     background-color: #1F2937;
+    height: 500px;
 }
 
 .main-text {
@@ -54,7 +55,8 @@ ul {
 .right-box {
     display: flex;
     flex-direction: column;
-    text-align: center;
+    margin-right: auto;
+    /* text-align: center; */
     /* background-color: #; */
     /* width: 400px;
     height: 150px;
@@ -69,9 +71,19 @@ ul {
     margin: auto;
 }
 
+.subtext {
+}
+
+.header-2 {
+    margin-bottom: auto;
+    font-size: 22px;
+    font-weight: 700;
+}
+
 .button {
     color: #F9FAF8;
     background-color: #3882F6;
     width: 100px;
     height: 30px;
+    margin-bottom: auto;
 }
