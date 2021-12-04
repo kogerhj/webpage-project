@@ -29,11 +29,19 @@ ul {
 
 .container-1 {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     color: #F9FAF8;
     background-color: #1F2937;
 }
 
 .main-text {
     font-size: 48px;
+}
+
+.left-box {
+    display: flex;
+    flex-direction: column;
+    padding: 0 35px;
+    width: 350px;
+    height: auto;
 }
