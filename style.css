@@ -128,7 +128,9 @@ ul {
 }
 
 .product-banner {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin: 100px auto;
     background-color: rgb(148, 197, 181);
     color:rgb(236, 248, 247);
@@ -137,7 +139,9 @@ ul {
 }
 
 .footer {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     color: #c7d3e9;
     background-color: #1F2937;
     height: 4rem;
