@@ -125,3 +125,12 @@ ul {
 .container-4 {
     height: 300px;
 }
+
+.product-banner {
+    text-align: center;
+    margin: 100px auto;
+    background-color: rgb(148, 197, 181);
+    color:rgb(236, 248, 247);
+    height: 7rem;
+    width: 700px;
+}
