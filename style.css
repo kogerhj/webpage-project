@@ -99,6 +99,7 @@ ul {
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    margin-bottom: 150px;
 }
 
 .container-2-info {
@@ -133,4 +134,11 @@ ul {
     color:rgb(236, 248, 247);
     height: 7rem;
     width: 700px;
+}
+
+.footer {
+    text-align: center;
+    color: #c7d3e9;
+    background-color: #1F2937;
+    height: 4rem;
 }
