@@ -64,6 +64,9 @@ ul {
 }
 
 .image-placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #5b6475;
     width: 400px;
     height: 150px;
