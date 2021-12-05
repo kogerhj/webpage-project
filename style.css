@@ -91,3 +91,33 @@ ul {
 .placeholder-text {
     text-align: center;
 }
+
+/*Second box with four image containers*/
+
+.container-2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-2-info {
+    text-align: center;
+    font-size: 36px;
+}
+
+/* .image-box {
+    display: flex;
+    background-color: rgb(33, 126, 126) */
+    
+/* } */
+
+.box {
+    flex-shrink: 0;
+    border-radius: 10%;
+    border: 10px cadetblue;
+    margin: 20px;
+    height: 150px;
+    width: 150px;
+    background-color: rgb(92, 92, 143);
+}
